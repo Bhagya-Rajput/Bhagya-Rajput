@@ -1,3 +1,7 @@
+<!-- Animated Header -->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,100:6A5ACD&text=Bhagya%20Rajput&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20|%20AI%20&%20Machine%20Learning%20Enthusiast&descAlignY=55"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Bhagya Rajput</h1>
 
@@ -6,52 +10,65 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+Developer;Learning+AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Projects+One+Commit+at+a+Time+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+Developer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Bhagya-Rajput&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Bhagya-Rajput&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/Bhagya-Rajput?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Bhagya-Rajput?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **B.Tech CSE (Data Science)** Student at **Hindustan College of Science & Technology, Mathura**
+🎓 B.Tech Computer Science & Engineering (Data Science)
 
-I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**. I enjoy solving real-world problems using data, building intelligent applications, and continuously learning new technologies.
+🏫 Hindustan College of Science & Technology, Mathura
 
-### 🌱 Currently Learning
+I am passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Analytics, and Data Science**. I enjoy building intelligent applications, solving real-world problems, and continuously learning emerging technologies.
+
+---
+
+# 🌱 Currently Learning
 
 - 📊 Data Science
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 👁️ Computer Vision
-- 💬 Natural Language Processing (NLP)
+- 💬 Natural Language Processing
 - 📈 Data Analytics
-
-### 🚀 What I'm Working On
-
-- 🔭 AI & Data Science Projects
-- 🐍 Python Development
-- 📚 Strengthening DSA
-- 💻 Open Source Contributions
-
-### 🎯 Career Goal
-
-To become a skilled **Data Scientist** specializing in **Artificial Intelligence & Machine Learning** and build impactful data-driven solutions.
 
 ---
 
-# 💼 Internship
+# 🚀 What I'm Working On
 
-### IBM SkillsBuild × NASSCOM Artificial Intelligence Virtual Internship
+- 🔭 AI & Machine Learning Projects
+- 🐍 Python Development
+- 📊 Data Analytics
+- 💻 Open Source
+- 📚 DSA
 
-✅ Completed a 1-Month AI Internship
+---
 
-**Highlights**
+# 💼 IBM SkillsBuild × NASSCOM AI Internship
+
+## Artificial Intelligence Virtual Internship
+
+📅 Duration
+
+**05 February 2026 – 05 March 2026**
+
+💰 **Stipend:** ₹4,000
+
+### Learned
 
 - Artificial Intelligence
 - Python Programming
@@ -59,13 +76,56 @@ To become a skilled **Data Scientist** specializing in **Artificial Intelligence
 - Deep Learning
 - CNN
 - NLP
-- Data Analysis
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Data Analysis
+- Model Evaluation
 
-💰 **Stipend:** ₹4,000
+### Project Developed
+
+🫁 Lung Cancer Detection using CNN
+
+Repository
+
+https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
+
+---
+
+# 🏅 Certifications
+
+### IBM SkillsBuild
+
+✅ Artificial Intelligence Virtual Internship Certificate
+
+### NASSCOM FutureSkills Prime
+
+- Digital Application Fundamentals (STEM)
+
+- Trustworthy AI
+
+- Importance & Benefits of Collaboration & Teamwork
+
+- Utilizing Influencing & Negotiation for Individual Performance
+
+---
+
+# 🎖 FutureSkills Prime Badges
+
+> Save your badge screenshots inside a folder named **badges**.
+
+<p align="center">
+
+<img src="badges/stem.png" width="180"/>
+
+<img src="badges/trustworthy-ai.png" width="180"/>
+
+<img src="badges/teamwork.png" width="180"/>
+
+<img src="badges/negotiation.png" width="180"/>
+
+</p>
 
 ---
 
@@ -73,9 +133,9 @@ To become a skilled **Data Scientist** specializing in **Artificial Intelligence
 
 ## 🫁 Lung Cancer Detection using CNN
 
-A Deep Learning project developed during my IBM Internship that detects lung cancer from CT scan images using **Convolutional Neural Networks (CNN)**.
+A Deep Learning project that classifies Lung Cancer CT Scan Images using Convolutional Neural Networks.
 
-### Tech Stack
+### Technologies Used
 
 - Python
 - TensorFlow
@@ -84,7 +144,7 @@ A Deep Learning project developed during my IBM Internship that detects lung can
 - Pandas
 - Matplotlib
 
-🔗 Repository
+Repository
 
 https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
@@ -92,13 +152,15 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 # 💻 Tech Stack
 
-<p align="left">
+## Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode"/>
 
 </p>
 
-### Libraries & Tools
+## Libraries
 
 <p>
 
@@ -112,21 +174,27 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+## Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhagya-Rajput&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhagya-Rajput&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-Rajput&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-Rajput&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,6 +203,12 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-Rajput&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Bhagya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagya-Rajput&theme=tokyo-night)](https://github.com/Bhagya-Rajput)
 
 ---
 
@@ -148,37 +222,71 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 ---
 
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions and create the snake workflow.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Bhagya-Rajput/Bhagya-Rajput/output/github-snake-dark.svg"/>
+
+</p>
+
+---
+
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/bhagya-kumar-rajput-124849359" target="_blank">
+<a href="https://www.linkedin.com/in/bhagya-kumar-rajput-124849359">
+
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+
 </a>
 
-<a href="https://www.instagram.com/bhagya._rajput/" target="_blank">
+<a href="https://www.instagram.com/bhagya._rajput/">
+
 <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 🎯 Goals for 2026
 
-> *"Success is built one line of code, one project, and one lesson at a time."*
+- ✅ Become proficient in Data Science
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Build Real-world AI Projects
+- ✅ Contribute to Open Source
+- ✅ Crack a Data Science Internship
 
 ---
 
-## 🐍 Contribution Snake
+# ⚡ Fun Facts
 
-> After creating your profile repository, enable the **GitHub Snake Action** to generate this automatically.
+🎬 Movie Enthusiast
 
+🏏 Sports Lover
 
-github-snake.svg
+💻 Always Exploring New Technologies
 
+📚 Lifelong Learner
 
+---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 💡 Quote
+
+> **"Success isn't about knowing everything—it's about learning something new every day and applying it to create meaningful impact."**
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my profile! ⭐
+
+*"Let's connect, collaborate, and build something amazing together!"*
+
+</p>
