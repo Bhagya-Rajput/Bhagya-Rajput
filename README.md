@@ -119,7 +119,7 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 <img src="badges/futureskillsprime.in_iDH_user_user_badge_view_32914_BG_1f003c72-0456-11f1-bdec-005056b48b54_page-0001.jpg" width="180"/>
 
-<img src="badges/trustworthy-ai.png" width="180"/>
+<img src="badges/futureskillsprime.in_iDH_user_user_badge_view_32914_BG_24ca3304-0501-11f1-bdec-005056b48b54_page-0001.jpg" width="180"/>
 
 <img src="badges/teamwork.png" width="180"/>
 
