@@ -236,7 +236,6 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 # 🌐 Connect With Me
 
-<p align="center">
 
 <a href="https://www.linkedin.com/in/bhagya-kumar-rajput-124849359">
 
