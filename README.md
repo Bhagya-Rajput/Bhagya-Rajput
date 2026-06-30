@@ -42,10 +42,8 @@ I am passionate about **Artificial Intelligence, Machine Learning, Deep Learning
 - 📊 Data Science
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
+- 🐍 Python
 - 📈 Data Analytics
-
 ---
 
 # 🚀 What I'm Working On
@@ -192,16 +190,13 @@ https://github.com/Bhagya-Rajput/lung-cancer-detection-using-CNN
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhagya-Rajput&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-Rajput&theme=tokyonight&hide_border=true"/>
 
-</p>
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-Rajput&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats-iaq8xwbra-bhagyakumarrajput-3409s-projects.vercel.app/api/top-langs/?username=Bhagya-Rajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </p>
 
 ---
